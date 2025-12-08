@@ -1,6 +1,6 @@
-package dev.danvega.contentcalendar;
+package dev.faithful.contentcalendar;
 
-import dev.danvega.contentcalendar.config.ContentCalendarProperties;
+import dev.faithful.contentcalendar.config.ContentCalendarProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

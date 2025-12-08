@@ -1,4 +1,4 @@
-package dev.danvega.contentcalendar.repository;
+package dev.faithful.contentcalendar.repository;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -8,9 +8,9 @@ import java.util.List;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
-import dev.danvega.contentcalendar.model.Content;
-import dev.danvega.contentcalendar.model.Status;
-import dev.danvega.contentcalendar.model.Type;
+import dev.faithful.contentcalendar.model.Content;
+import dev.faithful.contentcalendar.model.Status;
+import dev.faithful.contentcalendar.model.Type;
 
 @Repository
 public class ContentJdbcTemplateRepository {

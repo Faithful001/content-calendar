@@ -7,7 +7,7 @@
     "contentType": "ARTICLE",
     "dateCreated": "2023-01-27T00:00:00.000000",
     "dateUpdated": null,
-    "url": "https://www.danvega.dev/blog/2023/01/27/jakarta-ee-10-uuid/"
+    "url": "https://www.faithful.dev/blog/2023/01/27/jakarta-ee-10-uuid/"
   },
   {
     "id": null,
@@ -17,7 +17,7 @@
     "contentType": "ARTICLE",
     "dateCreated": "2022-09-06T00:00:00.000000",
     "dateUpdated": null,
-    "url": "https://www.danvega.dev/blog/2022/09/06/spring-security-jwt/"
+    "url": "https://www.faithful.dev/blog/2022/09/06/spring-security-jwt/"
   },
   {
     "id": null,
@@ -27,7 +27,7 @@
     "contentType": "ARTICLE",
     "dateCreated": "2022-05-17T00:00:00.000000",
     "dateUpdated": null,
-    "url": "https://www.danvega.dev/blog/2022/05/17/spring-for-graphql/"
+    "url": "https://www.faithful.dev/blog/2022/05/17/spring-for-graphql/"
   },
   {
     "id": null,
@@ -60,4 +60,3 @@
     "url": "https://youtu.be/g78is10FjF0"
   }
 ]
-

@@ -1,4 +1,4 @@
-package dev.danvega.contentcalendar.model;
+package dev.faithful.contentcalendar.model;
 
 public enum Type {
     ARTICLE,

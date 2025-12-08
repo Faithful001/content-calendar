@@ -1,9 +1,9 @@
-package dev.danvega.contentcalendar.controller;
+package dev.faithful.contentcalendar.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import dev.danvega.contentcalendar.config.ContentCalendarProperties;
+import dev.faithful.contentcalendar.config.ContentCalendarProperties;
 
 /*
  * The constructor takes an instance of ContentCalendarProperties as a parameter and 

@@ -23,7 +23,7 @@ This is a list of resources in the Spring Community that I recommend.
 
 ## YouTube
 
-- [Dan Vega](https://www.youtube.com/@danvega)
+- [Dan Vega](https://www.youtube.com/@faithful)
 - [DaShaun Carter](https://www.youtube.com/@dashaun)
 - [Spring Boot Learning](https://www.youtube.com/@SpringBootLearning)
 - [Spring Tips](https://www.youtube.com/playlist?list=PLgGXSWYM2FpPw8rV0tZoMiJYSCiLhPnOc)
@@ -34,9 +34,9 @@ This is a list of resources in the Spring Community that I recommend.
 
 ## Dan
 
-- [Dan Vega](https://www.danvega.dev)
+- [Dan Vega](https://www.faithful.dev)
 - [Spring Office Hours](https://tanzu.vmware.com/developer/tv/spring-office-hours/)
-- [Twitter](https://twitter.com/therealdanvega)
-- [GitHub](https://github.com/danvega)
-- [LinkedIn](https://www.linkedin.com/in/danvega)
-- [Newsletter](https://www.danvega.dev/newsletter)
+- [Twitter](https://twitter.com/therealfaithful)
+- [GitHub](https://github.com/faithful)
+- [LinkedIn](https://www.linkedin.com/in/faithful)
+- [Newsletter](https://www.faithful.dev/newsletter)

@@ -1,10 +1,10 @@
-package dev.danvega.contentcalendar.repository;
+package dev.faithful.contentcalendar.repository;
 
 import java.util.List;
 
 import org.springframework.data.repository.ListCrudRepository;
 
-import dev.danvega.contentcalendar.model.Content;
+import dev.faithful.contentcalendar.model.Content;
 /*
  * This interface declares that ContentRepository extends ListCrudRepository, which provides methods for 
  * performing CRUD operations on Content objects identified by an Integer type ID.

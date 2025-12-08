@@ -1,4 +1,4 @@
-package dev.danvega.contentcalendar.controller;
+package dev.faithful.contentcalendar.controller;
 
 import java.time.LocalDateTime;
 import java.util.List;
@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
-import dev.danvega.contentcalendar.model.Content;
-import dev.danvega.contentcalendar.repository.ContentRepository;
+import dev.faithful.contentcalendar.model.Content;
+import dev.faithful.contentcalendar.repository.ContentRepository;
 import jakarta.validation.Valid;
 
 @RestController
@@ -61,7 +61,7 @@ public class ContentController {
     @GetMapping("/{id}")
     public Optional<Content> findById(@PathVariable Integer id) {
         return Optional.ofNullable(repository.findById(id)
-                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Content not found.")));
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Content with this id found")));
     }
     /*
      * Endpoint: POST /api/content

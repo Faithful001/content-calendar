@@ -1,4 +1,4 @@
-package dev.danvega.contentcalendar.repository;
+package dev.faithful.contentcalendar.repository;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
@@ -7,9 +7,9 @@ import java.util.Optional;
 
 import org.springframework.stereotype.Repository;
 
-import dev.danvega.contentcalendar.model.Content;
-import dev.danvega.contentcalendar.model.Status;
-import dev.danvega.contentcalendar.model.Type;
+import dev.faithful.contentcalendar.model.Content;
+import dev.faithful.contentcalendar.model.Status;
+import dev.faithful.contentcalendar.model.Type;
 import jakarta.annotation.PostConstruct;
 /*
  * The ContentCollectionRepository class functions as an in-memory data repository 
@@ -58,8 +58,8 @@ public class ContentCollectionRepository {
     @PostConstruct
     private void init() {
         Content content = new Content(1,
-                "My First Blog Post",
-                "My first blog post",
+                "What's on your mind?",
+                "This is the description",
                 Status.IDEA,
                 Type.ARTICLE,
                 LocalDateTime.now(),
